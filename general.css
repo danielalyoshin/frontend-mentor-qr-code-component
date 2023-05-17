@@ -38,6 +38,7 @@ body {
 
 .secondary-text {
   line-height: 19px;
+  letter-spacing: 0.1875px;
   margin: 8px 32px 40px 32px;
 }
 
