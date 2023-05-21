@@ -13,6 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -34,18 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-For this first HTML/CSS mini-project I reinforced the basic fundamentals learned from SuperSimpleDev's ["HTML & CSS Full Course - Beginner to Pro"](https://www.youtube.com/watch?v=G3e-cpL7ofc) course found on YouTube.
-
-An interesting technique for centering divs both vertically and horizontally:
-
-```css
-.component {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-```
+For this first HTML/CSS mini-project I reinforced the basic fundamentals learned from SuperSimpleDev's ["HTML & CSS Full Course - Beginner to Pro"](https://www.youtube.com/watch?v=G3e-cpL7ofc) course found on YouTube. I then reworked the component to be more responsive and accessible, as well as use proper HTML semantics and landmarks.
 
 ### Continued development
 
@@ -55,9 +45,15 @@ In the future I would like to complete more of these mini-projects to further st
 
 - ["HTML & CSS Full Course - Beginner to Pro"](https://www.youtube.com/watch?v=G3e-cpL7ofc) - This course taught me the basic fundamentals of HTML and CSS.
 - ["Top 3 Ways to Center a DIV with CSS"](https://www.youtube.com/shorts/njdJeu95p6s) - This video introduced me to several useful techniques for centering divs.
+- ["Why font-size must NEVER be in pixels"](https://fedmentor.dev/posts/font-size-px/) - This article helped introduce me to more responsive and accessible design through the usage of rem, em, %, and unitless measurements.
+- ["A Modern CSS Reset"](https://andy-bell.co.uk/a-modern-css-reset/) - For a set of more "preferable" defaults.
 
 ## Author
 
 - GitHub - [Daniel Alyoshin](https://github.com/danielalyoshin)
 - Frontend Mentor - [@danielalyoshin](https://www.frontendmentor.io/profile/danielalyoshin)
 - Twitter - [@danielalyoshin](https://www.twitter.com/danielalyoshin)
+
+## Acknowledgments
+
+Thank you to [Grace Snow](https://www.fedmentor.dev) for introducing me to proper semantic HTML and more responsive and accessible design.
