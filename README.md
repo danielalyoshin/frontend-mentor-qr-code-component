@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://danielalyoshin.github.io/frontend-mentor-qr-code-component/
-- Live Site URL: https://danielalyoshin.github.io/frontend-mentor-qr-code-component/
+- Solution URL: [Frontend Mentor: QR code component || CSS Grid](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-V7jfeIpvB3)
+- Live Site URL: [GitHub Pages](https://danielalyoshin.github.io/frontend-mentor-qr-code-component/)
 
 ## My process
 
@@ -50,7 +50,7 @@ In the future I would like to complete more of these mini-projects to further st
 
 ## Author
 
-- GitHub - [Daniel Alyoshin](https://github.com/danielalyoshin)
+- GitHub - [danielalyoshin](https://github.com/danielalyoshin)
 - Frontend Mentor - [@danielalyoshin](https://www.frontendmentor.io/profile/danielalyoshin)
 - Twitter - [@danielalyoshin](https://www.twitter.com/danielalyoshin)
 - LinkedIn - [in/danielalyoshin](https://www.linkedin.com/in/danielalyoshin/)
