@@ -53,6 +53,7 @@ In the future I would like to complete more of these mini-projects to further st
 - GitHub - [Daniel Alyoshin](https://github.com/danielalyoshin)
 - Frontend Mentor - [@danielalyoshin](https://www.frontendmentor.io/profile/danielalyoshin)
 - Twitter - [@danielalyoshin](https://www.twitter.com/danielalyoshin)
+- LinkedIn - [in/danielalyoshin](https://www.linkedin.com/in/danielalyoshin/)
 
 ## Acknowledgments
 
