@@ -19,8 +19,8 @@ body {
 .card {
   background-color: var(--white);
   max-width: 20rem;
-  border-radius: 20px;
-  box-shadow: 0 25px 25px rgba(0, 0, 0, 0.05);
+  border-radius: 1.25rem;
+  box-shadow: 0 1.5625rem 1.5625rem rgba(0, 0, 0, 0.05);
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -28,7 +28,7 @@ body {
 }
 
 .qr-code-image {
-  border-radius: 10px;
+  border-radius: 0.625rem;
 }
 
 h1 {
@@ -43,7 +43,7 @@ p {
   color: var(--grayish-blue);
   font-size: 0.9375rem;
   line-height: 1.2667;
-  letter-spacing: 0.01171875em;
+  letter-spacing: 0.0125em;
   font-weight: 400;
   margin: 1rem 1rem 1.5rem 1rem;
 }
