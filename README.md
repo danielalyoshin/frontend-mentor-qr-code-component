@@ -50,6 +50,7 @@ In the future I would like to complete more of these mini-projects to further st
 
 ## Author
 
+- Website - [alyoshin.dev](https://alyoshin.dev)
 - GitHub - [danielalyoshin](https://github.com/danielalyoshin)
 - Frontend Mentor - [@danielalyoshin](https://www.frontendmentor.io/profile/danielalyoshin)
 - Twitter - [@danielalyoshin](https://www.twitter.com/danielalyoshin)
