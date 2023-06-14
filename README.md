@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor: QR code component || CSS Grid](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-V7jfeIpvB3)
+- Solution URL: [Frontend Mentor: QR code component using Flexbox](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-V7jfeIpvB3)
 - Live Site URL: [GitHub Pages](https://danielalyoshin.github.io/frontend-mentor-qr-code-component/)
 
 ## My process
